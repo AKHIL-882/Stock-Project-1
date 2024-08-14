@@ -2,7 +2,7 @@
 
 # Backend (Node.js) Setup
 
-## mkdir stock-portfolio-backend
+### mkdir stock-portfolio-backend
 # cd stock-portfolio-backend
 # npm init -y
 
